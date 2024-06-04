@@ -1,4 +1,11 @@
 {
+  "name": "my-noddv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon"
+  },
   "devDependencies": {
     "@types/node": "^20.14.1",
     "nodemon": "^3.1.3",
